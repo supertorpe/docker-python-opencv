@@ -1,7 +1,7 @@
 # docker-python-opencv
 
 <p>Docker image to develop OpenCV apps with python / jupyter notebooks.</p>
-<p>The image provides a virtual framebuffer (xvfb), a minimalistic window manager (jwm) and a VNC server (x11vnc), so you can develop opengl apps entirely within the container with no external dependencies.</p>
+<p>The image provides a virtual framebuffer (xvfb), a minimalistic window manager (jwm) and a VNC server (x11vnc), so you can develop OpenCV apps entirely within the container with no external dependencies.</p>
 <p>You only need a VNC client to display the container desktop.</p>
 
 # Run container
